@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="quantidade_porcao">
+        <item>1 Porção </item>
+        <item>2 Porções</item>
+        <item>3 Porções</item>
+        <item>4 Porções</item>
+
+    </array>
+</resources>
